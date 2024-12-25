@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "Color"; ObjectID = "8ef-d6-0bW"; */
+"8ef-d6-0bW.text" = "Color";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "9eE-cT-LMv"; */
+"9eE-cT-LMv.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Sort It Out"; ObjectID = "Eyo-ud-h6E"; */
+"Eyo-ud-h6E.normalTitle" = "Sort It Out";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "FDh-iT-oFb"; */
+"FDh-iT-oFb.normalTitle" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Math Target Challenge"; ObjectID = "O6G-p0-q53"; */
+"O6G-p0-q53.normalTitle" = "Math Target Challenge";
+
+/* Class = "UILabel"; text = "Embark on a journey through the enigmatic Mysthaven Trails, where adventure and mystery await at every turn."; ObjectID = "Qd5-gv-uzq"; */
+"Qd5-gv-uzq.text" = "Embark on a journey through the enigmatic Mysthaven Trails, where adventure and mystery await at every turn.";
+
+/* Class = "UILabel"; text = "About App"; ObjectID = "SCP-7N-F77"; */
+"SCP-7N-F77.text" = "About App";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "SSk-lu-Xee"; */
+"SSk-lu-Xee.text" = "Score";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T6j-4x-7Qo"; */
+"T6j-4x-7Qo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Setting"; ObjectID = "T7o-ab-ICX"; */
+"T7o-ab-ICX.normalTitle" = "Setting";
+
+/* Class = "UILabel"; text = "Mysthaven Trails"; ObjectID = "UL4-SP-nVd"; */
+"UL4-SP-nVd.text" = "Mysthaven Trails";
+
+/* Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "VFX-Mu-crN"; */
+"VFX-Mu-crN.normalTitle" = "Feedback";
+
+/* Class = "UIButton"; normalTitle = "Color Match"; ObjectID = "XbK-Lb-UYT"; */
+"XbK-Lb-UYT.normalTitle" = "Color Match";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "Xm2-ez-6yh"; */
+"Xm2-ez-6yh.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "YxI-vh-Ydr"; */
+"YxI-vh-Ydr.text" = "Time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bNN-w9-zIl"; */
+"bNN-w9-zIl.text" = "Label";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "bv8-fy-ZyZ"; */
+"bv8-fy-ZyZ.text" = "Score";
+
+/* Class = "UILabel"; text = "Score"; ObjectID = "d9M-7y-e0X"; */
+"d9M-7y-e0X.text" = "Score";
+
+/* Class = "UIButton"; normalTitle = "Bingo Game"; ObjectID = "doG-Q0-u4V"; */
+"doG-Q0-u4V.normalTitle" = "Bingo Game";
+
+/* Class = "UIButton"; normalTitle = "About US"; ObjectID = "eP1-jm-ENl"; */
+"eP1-jm-ENl.normalTitle" = "About US";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "hcH-9e-rkd"; */
+"hcH-9e-rkd.text" = "Time";
+
+/* Class = "UITextView"; text = "Description of Mysthaven Trails\nMysthaven Trails is an engaging and interactive gaming app that combines multiple mini-games into one exciting adventure! With a mix of strategy, reflexes, and problem-solving, this app offers games like Bingo Game, Sort It Out, Math Target Challenge, and Color Match. Each game is designed to challenge your brain, improve your focus, and provide endless entertainment. Whether you enjoy classic bingo, sorting challenges, math puzzles, or fast-paced color matching, Mysthaven Trails has something for everyone!\n\nHow to Use Mysthaven Trails\n\t\n     1        Choose a Game:\n\t◦\tBingo Game: Mark numbers as they’re called and aim to complete rows, columns, or diagonals for a Bingo!\n\t◦\tSort It Out: Drag and drop items (like alphabets, numbers, and shapes) into the correct bins within a time limit.\n\t◦\tMath Target Challenge: Solve quick math problems by tapping the correct moving target with the right answer.\n\t◦\tColor Match: Match the displayed color name with the correct button as quickly as possible.\n    2            Start Playing:\n\t◦\tSelect a game mode from the main menu.\n\t◦\tFollow the instructions provided for each game.\n\t◦\tUse your skills and reflexes to achieve the highest score possible.\n    3          Track Your Progress:\n\t◦\tView your scores and compete with friends or other players to see who ranks the highest.\n    4            Replay and Improve:\n\t◦\tReplay games to improve your skills and achieve new personal bests.\n\nBenefits of Mysthaven Trails\n\t1\tDiverse Mini-Games: With four different game types, Mysthaven Trails keeps gameplay fresh and exciting.\n\t◦\tTest your luck and strategy with Bingo.\n\t◦\tSharpen your organizational skills with Sort It Out.\n\t◦\tImprove your math accuracy with Math Target Challenge.\n\t◦\tBoost your reflexes with Color Match.\n\t2\tBrain Training:\n\t◦\tEnhance your cognitive skills like memory, focus, problem-solving, and reaction time.\n\t3\tFamily-Friendly Fun:\n\t◦\tMysthaven Trails is suitable for players of all ages, making it a perfect game for family and friends.\n\t4\tQuick and Easy to Play:\n\t◦\tShort, engaging sessions make this app perfect for quick breaks or extended playtime.\n\t5\tImproves Mental Agility:\n\t◦\tThe mix of challenges helps you stay mentally sharp and focused.\n\t6\tCompetitive Edge:\n\t◦\tCompete with others or beat your own high scores to stay motivated.\n\t7\tColorful and Interactive Design:\n\t◦\tEnjoy vibrant graphics, smooth animations, and a user-friendly interface.\n"; ObjectID = "nC2-yT-ay0"; */
+"nC2-yT-ay0.text" = "Description of Mysthaven Trails\nMysthaven Trails is an engaging and interactive gaming app that combines multiple mini-games into one exciting adventure! With a mix of strategy, reflexes, and problem-solving, this app offers games like Bingo Game, Sort It Out, Math Target Challenge, and Color Match. Each game is designed to challenge your brain, improve your focus, and provide endless entertainment. Whether you enjoy classic bingo, sorting challenges, math puzzles, or fast-paced color matching, Mysthaven Trails has something for everyone!\n\nHow to Use Mysthaven Trails\n\t\n     1        Choose a Game:\n\t◦\tBingo Game: Mark numbers as they’re called and aim to complete rows, columns, or diagonals for a Bingo!\n\t◦\tSort It Out: Drag and drop items (like alphabets, numbers, and shapes) into the correct bins within a time limit.\n\t◦\tMath Target Challenge: Solve quick math problems by tapping the correct moving target with the right answer.\n\t◦\tColor Match: Match the displayed color name with the correct button as quickly as possible.\n    2            Start Playing:\n\t◦\tSelect a game mode from the main menu.\n\t◦\tFollow the instructions provided for each game.\n\t◦\tUse your skills and reflexes to achieve the highest score possible.\n    3          Track Your Progress:\n\t◦\tView your scores and compete with friends or other players to see who ranks the highest.\n    4            Replay and Improve:\n\t◦\tReplay games to improve your skills and achieve new personal bests.\n\nBenefits of Mysthaven Trails\n\t1\tDiverse Mini-Games: With four different game types, Mysthaven Trails keeps gameplay fresh and exciting.\n\t◦\tTest your luck and strategy with Bingo.\n\t◦\tSharpen your organizational skills with Sort It Out.\n\t◦\tImprove your math accuracy with Math Target Challenge.\n\t◦\tBoost your reflexes with Color Match.\n\t2\tBrain Training:\n\t◦\tEnhance your cognitive skills like memory, focus, problem-solving, and reaction time.\n\t3\tFamily-Friendly Fun:\n\t◦\tMysthaven Trails is suitable for players of all ages, making it a perfect game for family and friends.\n\t4\tQuick and Easy to Play:\n\t◦\tShort, engaging sessions make this app perfect for quick breaks or extended playtime.\n\t5\tImproves Mental Agility:\n\t◦\tThe mix of challenges helps you stay mentally sharp and focused.\n\t6\tCompetitive Edge:\n\t◦\tCompete with others or beat your own high scores to stay motivated.\n\t7\tColorful and Interactive Design:\n\t◦\tEnjoy vibrant graphics, smooth animations, and a user-friendly interface.\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rnN-yw-b9o"; */
+"rnN-yw-b9o.text" = "Label";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "skD-BY-6uF"; */
+"skD-BY-6uF.text" = "Time";
+
+/* Class = "UILabel"; text = "Mysthaven Trails"; ObjectID = "vWe-ye-vdP"; */
+"vWe-ye-vdP.text" = "Mysthaven Trails";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "xFk-Eb-bwO"; */
+"xFk-Eb-bwO.normalTitle" = "Privacy Policy";
