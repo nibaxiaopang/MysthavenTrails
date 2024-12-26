@@ -8,4 +8,6 @@ target 'MysthavenTrails' do
   # Pods for MysthavenTrails
   pod 'IQKeyboardManagerSwift'
   pod 'SideMenu'
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end
